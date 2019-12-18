@@ -16,10 +16,10 @@ This is a memory train game built by Arduino. It can train your memory in your f
 
 # Online simulation
 
-通过[Tinkercad][Tinkercad]平台进行仿真
+通过Tinkercad平台进行仿真,你可以点击[这里][tinkercad]复制项目
 
 
-Online simulation at [Tinkercad][Tinkercad]
+Online simulation at Tinkercad, you can click [here][Tinkercad] to copy it.
 
 
 
