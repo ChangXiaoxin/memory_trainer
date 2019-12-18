@@ -10,13 +10,17 @@ This is a memory train game built by Arduino. It can train your memory in your f
 
 # Hardware connection
 
-![连线图](doc/连线图.png)
+![连线图](doc/Hardware_connection.png)
 
 # 在线仿真
 
 # Online simulation
 
 通过[Tinkercad][Tinkercad]平台进行仿真
+
 Online simulation at [Tinkercad][Tinkercad]
+
+
+
 
 [Tinkercad]: https://www.tinkercad.com/things/lJ9IzHrUQGC    
