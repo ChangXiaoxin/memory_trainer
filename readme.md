@@ -8,6 +8,7 @@ This is a memory train game built by Arduino. It can train your memory in your f
 
 # 硬件连接
 
+
 # Hardware connection
 
 ![连线图](doc/Hardware_connection.png)
